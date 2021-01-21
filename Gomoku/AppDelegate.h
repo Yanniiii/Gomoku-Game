@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  Gomoku
+//  2222222222222Gomoku
 //
 //  Created by Sekorm on 16/7/25.
 //  Copyright © 2016年 HY. All rights reserved.
